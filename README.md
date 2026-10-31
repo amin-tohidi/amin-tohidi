@@ -10,13 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=amin-tohidi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=amin-tohidi"
-    alt="GitHub profile trophies"
-  />
-</p>
-
 <h3 align="left">Areas of Focus</h3>
 
 <ul>
