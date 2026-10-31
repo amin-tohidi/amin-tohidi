@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amin Tohidi</h1>
-<h3 align="center">AI Engineer | Computer Vision | Deep Learning</h3>
+<h3 align="center">AI Engineer | Computer Vision | LLMs & AI Agents</h3>
 
 <p align="center">
-  I hold a Master's degree in Artificial Intelligence and focus on building practical solutions with computer vision, image processing, and deep learning.
+  I hold a Master's degree in Artificial Intelligence and work on practical AI solutions across computer vision, deep learning, and large language models.
+  My interests include image processing, object detection, image segmentation, OCR, and building LLM-powered applications and AI agents.
 </p>
 
 <p align="center">
@@ -18,11 +19,12 @@
 <h3 align="left">Areas of Focus</h3>
 
 <ul>
+  <li>Large Language Models (LLMs) and Generative AI</li>
+  <li>LLM-powered Applications and AI Agent Development</li>
   <li>Computer Vision and Image Processing</li>
+  <li>Image Segmentation and Object Detection</li>
   <li>Deep Learning and Neural Networks</li>
-  <li>Object Detection with YOLO</li>
   <li>Optical Character Recognition (OCR)</li>
-  <li>Python-based AI applications</li>
 </ul>
 
 <h3 align="left">Selected Projects</h3>
@@ -41,16 +43,6 @@
     — A chatbot project focused on Persian-language interaction.
   </li>
 </ul>
-
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/amin-tohidi-280097205/" target="_blank" rel="noreferrer">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://telegram.me/Amin_T217" target="_blank" rel="noreferrer">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/amin_tohidi_17/" target="_blank" rel="noreferrer">Instagram</a>
-</p>
 
 <h3 align="left">Languages and Tools</h3>
 
