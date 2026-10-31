@@ -11,9 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=amin-tohidi">
-    <img src="https://github-profile-trophy.vercel.app/?username=amin-tohidi" alt="GitHub profile trophies" />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=amin-tohidi"
+    alt="GitHub profile trophies"
+  />
 </p>
 
 <h3 align="left">Areas of Focus</h3>
